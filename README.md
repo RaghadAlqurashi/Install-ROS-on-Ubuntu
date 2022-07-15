@@ -27,6 +27,10 @@ Now pick how much of ROS you would like to install.
 Desktop-Full Install: (Recommended) : Everything in Desktop plus 2D/3D simulators and 2D/3D perception packages
 #### sudo apt install ros-noetic-desktop-full
 4- Environment setup
+You must source this script in every bash terminal you use ROS in.
+It can be convenient to automatically source this script every time a new shell is launched. These commands will do that for you.
+
+Bash
 #### echo "source /opt/ros/noetic/setup.bash" >> ~/.bashrc
 #### source ~/.bashrc
 5- Dependencies for building packages
