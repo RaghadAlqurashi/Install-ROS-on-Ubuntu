@@ -4,11 +4,11 @@
 https://releases.ubuntu.com/focal/
 
 ## Step 2: Download VirtualBox
-click on Windows hosts
+click on Windows hosts \n
 https://www.virtualbox.org/wiki/Downloads
 
 ## Step 3: Ubuntu install of ROS Noetic
-open the terminal and Write sequentially the following codes
+open the terminal and Write sequentially the following codes \n
 1- Setup your sources.list
 Setup your computer to accept software from packages.ros.org.
 #### sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
