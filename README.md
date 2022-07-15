@@ -32,6 +32,7 @@ Desktop-Full Install: (Recommended) : Everything in Desktop plus 2D/3D simulator
 4- Environment setup
 
 You must source this script in every bash terminal you use ROS in.
+
 It can be convenient to automatically source this script every time a new shell is launched. These commands will do that for you.
 
 Bash
@@ -40,6 +41,7 @@ Bash
 5- Dependencies for building packages
 
 Up to now you have installed what you need to run the core ROS packages. To create and manage your own ROS workspaces, there are various tools and requirements that are distributed separately. For example, rosinstall is a frequently used command-line tool that enables you to easily download many source trees for ROS packages with one command.
+
 To install this tool and other dependencies for building ROS packages, run:
 #### sudo apt install python3-rosdep python3-rosinstall python3-rosinstall-generator python3-wstool build-essential
 6- Initialize rosdep
