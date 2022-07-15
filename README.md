@@ -40,4 +40,5 @@ With the following, you can initialize rosdep.
 #### rosdep update
 7- To start the ROS
 #### roscore
+<img width="383" alt="Screenshot 2022-07-15 162736-ros" src="https://user-images.githubusercontent.com/107959289/179233056-91d1174f-623b-45e7-b220-bfd90984b99c.png">
 http://wiki.ros.org/noetic/Installation/Ubuntu
