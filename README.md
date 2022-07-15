@@ -1,6 +1,8 @@
 # Install-ROS-on-Ubuntu
 
 ## Step 1: Download Ubuntu 20.04.4 LTS (Focal Fossa)
+click on 64-bit PC (AMD64) desktop image
+
 https://releases.ubuntu.com/focal/
 
 ## Step 2: Download VirtualBox
